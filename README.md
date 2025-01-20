@@ -10,3 +10,11 @@
            <a href="mailto:abhaniparth2835@gmail.com">
                       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
            </a>
+</p>
+
+
+### Resume
+
+<a href="E:\cyber\resume.pdf">
+<img src="E:\cyber\RESUME.png" height="30px" width="100px>
+           </a>
