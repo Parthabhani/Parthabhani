@@ -36,4 +36,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)
 
+### Stats
+![Sujit's github stats](https://github-readme-stats.vercel.app/api?username=Parthabhani&count_private=true)
+
 
