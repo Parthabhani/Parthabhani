@@ -16,5 +16,5 @@
 ### Resume
 
 <a href="E:\cyber\resume.pdf">
-<img src="E:\cyber\RESUME.png" height="30px" width="100px"/>
+<img src="E:\cyber\RESUME.png" />
 </a>
