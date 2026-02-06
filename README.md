@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhani Parth Ashokbhai
 
 🔐 **Cybersecurity Enthusiast | SOC & VAPT Aspirant | AI + Security Builder**  
-🎓 2nd Year B.Tech Student  
+🎓 3rd Year B.Tech Student  
 🐧 Linux Power User | ⚙️ Automation & Threat Analysis  
 🚀 Building real-world security projects, not just certificates
 
@@ -87,18 +87,6 @@ Automating recon, log analysis, and basic monitoring
 Voice-based AI assistant for system automation & security tasks
 
 > 📌 More projects coming — quality over quantity.
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parthabhani&show_icons=true&theme=tokyonight&count_private=true"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parthabhani&theme=tokyonight"/>
-</p>
 
 ---
 
